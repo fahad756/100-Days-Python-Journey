@@ -47,3 +47,11 @@ print(type(c))  # Output: <class 'float'>
 # When the '+' operator is used to add them, Python automatically converts 'b' to a float and performs the addition.
 # The result is 2.5, which is a float.
 # The type of 'c' is printed to confirm the data type.
+
+
+#Input Values
+FirstName = input("What is your First name? ")
+LastName = input("What is your Last Name? ")
+print(FirstName +" "+ LastName)
+
+
